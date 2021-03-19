@@ -1,4 +1,4 @@
-# analytics-portfolio-huttunen
+# Petra's Portfolio
 Portfolio of different analytics projects
 
 # [1. Customer segmentation and survival analysis](https://github.com/pthuttunen/dtu-advanced-business-analytics-project)
