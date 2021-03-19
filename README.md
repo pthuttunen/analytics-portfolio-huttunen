@@ -21,7 +21,6 @@ The aim was to predict the CLASE variable, which is a categorical variable with 
 - Random forest
 - Simple neural network with l2 regulizers
 
-As expected, the geographical split to training and test sets made the prediction task challenging. Using a random split gave better results.
+As expected, the geographical split to training and test sets made the prediction task challenging. Using a random split gave better results. The best results were achieved with SVM on a shuffled dataset:
 
-The best results were achieved with SVM on a shuffled dataset:
 ![](/images/SVC-confusion-matrix.png)
