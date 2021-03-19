@@ -5,4 +5,4 @@ Portfolio of different analytics projects
 * First thing
 * Second thing
 
-![](https://github.com/pthuttunen/analytics-portfolio-huttunen/blob/main/images/closed_deal_volume.png)
+![](/images/closed_deal_volume.png)
