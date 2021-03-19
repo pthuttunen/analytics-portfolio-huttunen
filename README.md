@@ -1,5 +1,4 @@
 # Petra's Portfolio
-Portfolio of different analytics projects
 
 # [1. Customer segmentation and survival analysis](https://github.com/pthuttunen/dtu-advanced-business-analytics-project)
 As the final project for DTU course Advanced Business Analytics, I analyzed the sellers of Brazilian e-commerce platform Olist. The goal was to examine the leads and sellers at Olist and segment them so that in the future, sales representatives can focus on the right leads. The segmentation of the sellers could also improve Olist's understanding of their customers (i.e. sellers) and give new possibilities in defining subscription packages for the different sellers.
