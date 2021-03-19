@@ -10,7 +10,7 @@ In addition to clustering, survival analysis was used to model the seller's time
 
 ![](/images/survival_prediction.png)
 
-# [Predicting the education class of households in Santiago de Chile]
+# [Predicting the education class of households in Santiago de Chile](https://github.com/pthuttunen/dtu-business-analytics-project)
 Final project for DTU course Introduction to Business Analytics. The project was done in collaboration with two other students. The challenge related to the housing market in the Santiago de Chile area. A relevant dataset was provided and used to perform different analyses on. The challenge was split into three components: a prediction challenge, an exploratory component and the report notebooks. My responsibility was the prediction challenge.
 
 The aim was to predict the CLASE variable, which is a categorical variable with three different categories related to the extent of education in each household. It was instructed to use specific testing and training datasets based on the latitude and longitude of houses. Due to the high number of variables, PCA was first used for dimension reduction. The following models were tested for the prediction task:
